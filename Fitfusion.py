@@ -78,7 +78,7 @@ def award_badges(calories_burned):
     return badges
 
 # Streamlit app layout
-st.set_page_config(page_title="AI-based Personal FitFusion", page_icon="🏋️", layout="wide")
+st.set_page_config(page_title="FitFusion-AI Fitness Tracker", page_icon="🏋️", layout="wide")
 
 # Custom CSS for styling
 st.markdown("""
